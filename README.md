@@ -13,3 +13,5 @@ git push -u origin master
 
 git config user.name "cloepogoda"
 git config user.email "cloe.pogoda@colorado.edu"
+
+git clone URL for repository
